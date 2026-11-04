@@ -1,0 +1,61 @@
+{
+  "name": "somewhere.lat",
+  "logo": [
+    "somewhere",
+    ".lat"
+  ],
+  "tagline": "Travel guides to Latin America",
+  "description": "Trip-planning guides to Latin America's great journeys: Machu Picchu, Patagonia, Oaxaca, Cartagena, Costa Rica and more. Itineraries, tickets, seasons and costs.",
+  "url": "https://somewhere.lat",
+  "language": "en",
+  "contact_email": "hello@somewhere.lat",
+  "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Work+Sans:wght@400;600&display=swap",
+  "hero": {
+    "kicker": "Wish you were here · Latin America",
+    "title": "The places from the postcards are still out there.",
+    "text": "Machu Picchu, Patagonia, Oaxaca, Cartagena and more: the trips people have dreamed about for generations, with everything you need to finally take them."
+  },
+  "guides_description": "Every somewhere.lat guide to vacations and trips across Latin America.",
+  "newsletter": {
+    "title": "Get the Latin America trip letter",
+    "text": "New destination guides, booking windows and seasonal tips. One email a month."
+  },
+  "article_note": "Ticket rules, entry requirements and prices change often. Confirm with official park, site and government pages before you book.",
+  "_comment_monetization": "Armando fills these in. Leave a value empty and that block simply stays hidden on the site.",
+  "adsense_client_id": "",
+  "newsletter_form_action": "",
+  "affiliates": {
+    "insurance": {
+      "label": "Get travel medical insurance from SafetyWing",
+      "url": "https://safetywing.com/nomad-insurance?referenceID=26629104&utm_source=26629104&utm_medium=Ambassador"
+    },
+    "stays": {
+      "label": "Find hotels on Booking.com",
+      "url": ""
+    },
+    "flights": {
+      "label": "Search flights to Latin America on Kiwi.com",
+      "url": "https://kiwi.tpx.li/wyDjrZdE"
+    },
+    "tours": {
+      "label": "Book tours and tickets on Klook",
+      "url": "https://klook.tpx.li/jdcOPy7C"
+    },
+    "trains": {
+      "label": "Book Machu Picchu trains",
+      "url": ""
+    },
+    "esim": {
+      "label": "Get a Latin America eSIM from Airalo",
+      "url": "https://airalo.tpx.li/4HqIXZ1K"
+    },
+    "transfers": {
+      "label": "Book a private airport transfer with GetTransfer",
+      "url": "https://gettransfer.tpx.li/rOObq9B2"
+    },
+    "car": {
+      "label": "Compare rental cars on EconomyBookings",
+      "url": "https://economybookings.tpx.li/nGt9LuEP"
+    }
+  }
+}
