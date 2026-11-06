@@ -1,0 +1,10 @@
+{
+ "home": ["Machu Picchu", "Cartagena Colombia old town", "Torres del Paine", "Oaxaca city street"],
+ "then": ["Machu Picchu 1912 Hiram Bingham", "Cusco old photograph 1900s", "Cartagena old photograph", "Oaxaca historical photograph"],
+ "machu-picchu-planning-guide": ["Machu Picchu", "Huayna Picchu", "Inca Trail Peru", "Aguas Calientes Peru", "Machu Picchu llama"],
+ "oaxaca-travel-guide": ["Oaxaca de Juarez street", "Santo Domingo Oaxaca", "Hierve el Agua", "Monte Alban", "Mercado Oaxaca"],
+ "cartagena-travel-guide": ["Cartagena Colombia walled city", "Cartagena balconies", "Getsemani Cartagena", "Castillo San Felipe de Barajas", "Rosario Islands Colombia"],
+ "costa-rica-first-trip-itinerary": ["Arenal Volcano", "Monteverde Cloud Forest", "Manuel Antonio beach", "Costa Rica sloth", "La Fortuna waterfall"],
+ "torres-del-paine-w-trek-guide": ["Torres del Paine towers", "Grey Glacier", "Cuernos del Paine", "Valle del Frances", "Lago Pehoe"],
+ "cusco-sacred-valley-guide": ["Plaza de Armas Cusco", "San Blas Cusco", "Pisac Peru", "Ollantaytambo", "Moray Peru", "Maras salt mines"]
+}
