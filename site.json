@@ -13,7 +13,8 @@
   "hero": {
     "kicker": "Wish you were here · Latin America",
     "title": "The places from the postcards are still out there.",
-    "text": "Machu Picchu, Patagonia, Oaxaca, Cartagena and more: the trips people have dreamed about for generations, with everything you need to finally take them."
+    "text": "Machu Picchu, Patagonia, Oaxaca, Cartagena and more: the trips people have dreamed about for generations, with everything you need to finally take them.",
+    "image": "machu-picchu-terraces"
   },
   "guides_description": "Every somewhere.lat guide to vacations and trips across Latin America.",
   "newsletter": {
@@ -58,5 +59,13 @@
       "url": "https://economybookings.tpx.li/nGt9LuEP"
     }
   },
-  "travelpayouts_drive_src": "https://emrldtp.cc/NTk1NTg3.js?t=595587"
+  "travelpayouts_drive_src": "https://emrldtp.cc/NTk1NTg3.js?t=595587",
+  "then_now": {
+    "image": "bingham-1912",
+    "title": "The same wonders, a different kind of journey",
+    "text": [
+      "In 1912, Hiram Bingham's Yale expedition camped at Machu Picchu for months, clearing and photographing the ruins. When those pictures ran in National Geographic in 1913, much of the world saw the place for the first time.",
+      "Today a train follows the Urubamba River to the foot of the mountain, and you can book your ticket from your phone. The stones, the clouds and that first look over the terraces have not changed. That is the feeling these guides are written for."
+    ]
+  }
 }
