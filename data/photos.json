@@ -298,5 +298,55 @@
   "author": "Bernard Gagnon",
   "license": "CC BY-SA 3.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "iguazu-panorama": {
+  "from": "iguazu-falls-guide/9",
+  "alt": "Wide view of Iguazú Falls with spray rising from the Devil's Throat",
+  "caption": "Iguazú Falls from the Brazilian side.",
+  "title": "File:Iguazu Falls Panorama 2009.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Iguazu_Falls_Panorama_2009.jpg",
+  "author": "Mariordo (Mario Roberto Durán Ortiz)",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "iguazu-walkway": {
+  "from": "iguazu-falls-guide/5",
+  "alt": "Visitors on a walkway above rushing brown water in front of a line of waterfalls",
+  "caption": "The walkway on the Brazilian side.",
+  "title": "File:Iguassu Falls, Brazil-Argentina - walkway to the top of the falls on the Brazilian side - (24748952481).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Iguassu_Falls,_Brazil-Argentina_-_walkway_to_the_top_of_the_falls_on_the_Brazilian_side_-_(24748952481).jpg",
+  "author": "Murray Foubister",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+ },
+ "devils-throat-station": {
+  "from": "iguazu-falls-guide/1",
+  "alt": "Wooden sign and clock reading Estación Garganta del Diablo",
+  "caption": "The train station for the Devil's Throat, Argentine side.",
+  "title": "File:Estación Garganta del Diablo (Cataratas del Iguazú), nomenclador.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_Garganta_del_Diablo_(Cataratas_del_Iguaz%C3%BA),_nomenclador.JPG",
+  "author": "Geogast",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0"
+ },
+ "iguazu-coati": {
+  "from": "iguazu-falls-guide/7",
+  "alt": "A coati sniffing the ground among green leaves",
+  "caption": "A coati, the falls' best-known scrounger.",
+  "title": "File:Brazil Parana Iguassu Falls Coati Nasua Narica Coati à Nez Blanc White Nosed Coati (17075653260).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Brazil_Parana_Iguassu_Falls_Coati_Nasua_Narica_Coati_%C3%A0_Nez_Blanc_White_Nosed_Coati_(17075653260).jpg",
+  "author": "dany13",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "devils-throat-aerial": {
+  "from": "iguazu-falls-guide/6",
+  "alt": "Aerial view of the Devil's Throat horseshoe with mist rising",
+  "caption": "The Devil's Throat from the air.",
+  "title": "File:Iguassu Falls, Brazil-Argentina - views from a helicopter note the walkway to the edge on the Argentine side - (24215702563).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Iguassu_Falls,_Brazil-Argentina_-_views_from_a_helicopter_note_the_walkway_to_the_edge_on_the_Argentine_side_-_(24215702563).jpg",
+  "author": "Murray Foubister",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
  }
 }
