@@ -348,5 +348,55 @@
   "author": "Murray Foubister",
   "license": "CC BY-SA 2.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+ },
+ "santa-catalina-arch": {
+  "from": "antigua-guatemala-travel-guide/2",
+  "alt": "The yellow Santa Catalina Arch over a cobbled street with Volcán de Agua behind",
+  "caption": "The Santa Catalina Arch and Volcán de Agua.",
+  "title": "File:Santa Catalina Arch - Antigua Guatemala Feb 2020.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_Catalina_Arch_-_Antigua_Guatemala_Feb_2020.jpg",
+  "author": "Chad Davis",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+ },
+ "agua-volcano-antigua": {
+  "from": "antigua-guatemala-travel-guide/3",
+  "alt": "Volcán de Agua rising behind a yellow colonial church and ruins in Antigua",
+  "caption": "Volcán de Agua over Antigua's rooftops.",
+  "title": "File:Volcan de Agua, Antigua (4137249125).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Volcan_de_Agua,_Antigua_(4137249125).jpg",
+  "author": "Pedro Szekely from Los Angeles, USA",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "antigua-cathedral-ruins": {
+  "from": "antigua-guatemala-travel-guide/7",
+  "alt": "Roofless brick arches and fallen stones inside the old cathedral ruins",
+  "caption": "The ruins behind Antigua's cathedral.",
+  "title": "File:Ruins of Cathedral - Antigua Guatemala - Sacatepequez - Guatemala (15733333419).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ruins_of_Cathedral_-_Antigua_Guatemala_-_Sacatepequez_-_Guatemala_(15733333419).jpg",
+  "author": "Adam Jones from Kelowna, BC, Canada",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+ },
+ "cerro-de-la-cruz": {
+  "from": "antigua-guatemala-travel-guide/9",
+  "alt": "A stone cross above the street grid of Antigua with Volcán de Agua beyond",
+  "caption": "The view from Cerro de la Cruz.",
+  "title": "File:Cerro de la Cruz, Antigua Guatemala 02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cerro_de_la_Cruz,_Antigua_Guatemala_02.jpg",
+  "author": "Simon Burchell",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "la-merced-1981": {
+  "from": "antigua-guatemala-travel-guide/5",
+  "alt": "Faded color photo of Holy Week statues inside La Merced church in 1981",
+  "caption": "La Merced during Holy Week, 1981.",
+  "title": "File:La Merced, Antigua Guatemala, Semana Santa 1981 04.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Merced,_Antigua_Guatemala,_Semana_Santa_1981_04.jpg",
+  "author": "Infrogmation of New Orleans",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
  }
 }
