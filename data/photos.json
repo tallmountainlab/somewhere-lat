@@ -398,5 +398,55 @@
   "author": "Infrogmation of New Orleans",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "tulum-cliff-ruins": {
+  "from": "tulum-cenotes-guide/4",
+  "alt": "Tulum's Maya ruins on a cliff above a white beach and turquoise sea",
+  "caption": "The Tulum ruins above the Caribbean.",
+  "title": "File:Tulum Archaeological Site - Quintana Roo - Mexico - 01 (15122326324).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tulum_Archaeological_Site_-_Quintana_Roo_-_Mexico_-_01_(15122326324).jpg",
+  "author": "Adam Jones from Kelowna, BC, Canada",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+ },
+ "tulum-el-castillo": {
+  "from": "tulum-cenotes-guide/2",
+  "alt": "The stone El Castillo temple among palm trees at Tulum",
+  "caption": "El Castillo, Tulum.",
+  "title": "File:El Castillo, Tulum Ruinas, 2023.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:El_Castillo,_Tulum_Ruinas,_2023.jpg",
+  "author": "Erik Cleves Kristensen",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "gran-cenote": {
+  "from": "tulum-cenotes-guide/6",
+  "alt": "Clear turquoise water and rocks in Gran Cenote with jungle above",
+  "caption": "Gran Cenote, near Tulum.",
+  "title": "File:Gran cenote Tulum (20767214144).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gran_cenote_Tulum_(20767214144).jpg",
+  "author": "dronepicr",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "dos-ojos": {
+  "from": "tulum-cenotes-guide/7",
+  "alt": "A wooden deck at the edge of the cave pool of Cenote Dos Ojos",
+  "caption": "Cenote Dos Ojos.",
+  "title": "File:20230324 - Cenote Dos Ojos - 5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20230324_-_Cenote_Dos_Ojos_-_5.jpg",
+  "author": "eugene_o",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "tulum-beach-stairs": {
+  "from": "tulum-cenotes-guide/3",
+  "alt": "Wooden stairs leading down the cliff to the sea at the Tulum ruins",
+  "caption": "The stairs to the beach below the ruins.",
+  "title": "File:Stairs to the Caribbean - Tulum Maya site, QR.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Stairs_to_the_Caribbean_-_Tulum_Maya_site,_QR.jpg",
+  "author": "edenpictures",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
  }
 }
