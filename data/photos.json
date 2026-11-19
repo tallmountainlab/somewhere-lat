@@ -448,5 +448,55 @@
   "author": "edenpictures",
   "license": "CC BY 2.0",
   "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "galapagos-tortoise": {
+  "from": "galapagos-islands-guide/1",
+  "alt": "A giant tortoise walking through green grass in the Santa Cruz highlands",
+  "caption": "A giant tortoise on Santa Cruz.",
+  "title": "File:Santa Cruz giant tortoise 03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_Cruz_giant_tortoise_03.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "marine-iguana": {
+  "from": "galapagos-islands-guide/3",
+  "alt": "A dark marine iguana lying on black volcanic rock",
+  "caption": "A marine iguana at Las Bachas, Santa Cruz.",
+  "title": "File:Iguana marina (Amblyrhynchus cristatus), Las Bachas, isla Santa Cruz, islas Galápagos, Ecuador, 2015-07-23, DD 23.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Iguana_marina_(Amblyrhynchus_cristatus),_Las_Bachas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-23,_DD_23.jpg",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "blue-footed-boobies": {
+  "from": "galapagos-islands-guide/5",
+  "alt": "Two blue-footed boobies facing each other on the sand",
+  "caption": "Blue-footed boobies courting on Lobos Island.",
+  "title": "File:Piquero patiazul (Sula nebouxii), isla Lobos, islas Galápagos, Ecuador, 2015-07-25, DD 35.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Piquero_patiazul_(Sula_nebouxii),_isla_Lobos,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-25,_DD_35.JPG",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "kicker-rock": {
+  "from": "galapagos-islands-guide/7",
+  "alt": "The split cliffs of Kicker Rock rising from the sea beside a dive boat",
+  "caption": "Kicker Rock (León Dormido), San Cristóbal.",
+  "title": "File:Kicker Rock and diving crew off of San Cristobal Island, Galapagos Ecuador.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Kicker_Rock_and_diving_crew_off_of_San_Cristobal_Island,_Galapagos_Ecuador.JPG",
+  "author": "MusikAnimal",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "tortuga-bay": {
+  "from": "galapagos-islands-guide/10",
+  "alt": "A long white beach with turquoise waves at Tortuga Bay",
+  "caption": "Tortuga Bay, Santa Cruz.",
+  "title": "File:Bahía Tortuga, isla Santa Cruz, islas Galápagos, Ecuador, 2015-07-26, DD 26.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Bah%C3%ADa_Tortuga,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-26,_DD_26.JPG",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
  }
 }
