@@ -498,5 +498,55 @@
   "author": "Diego Delso",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "uyuni-mirror": {
+  "from": "salar-de-uyuni-guide/1",
+  "alt": "A 4x4 and people reflected on the flooded mirror surface of the Salar de Uyuni at sunrise",
+  "caption": "The Salar de Uyuni mirror at sunrise.",
+  "title": "File:Salar de Uyuni, Bolivia, 2016-02-04, DD 16-18 HDR.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_16-18_HDR.JPG",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "uyuni-train-cemetery": {
+  "from": "salar-de-uyuni-guide/4",
+  "alt": "Rusting old steam locomotives in the desert outside Uyuni",
+  "caption": "The train cemetery outside Uyuni.",
+  "title": "File:02-Train-Cemetery-Uyuni-nX-22.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:02-Train-Cemetery-Uyuni-nX-22.jpg",
+  "author": "PsamatheM",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "isla-incahuasi": {
+  "from": "salar-de-uyuni-guide/5",
+  "alt": "Tall cacti on Isla Incahuasi above the white salt flat",
+  "caption": "Giant cacti on Isla Incahuasi.",
+  "title": "File:Isla Incahuasi Uyuni 2018.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Isla_Incahuasi_Uyuni_2018.jpg",
+  "author": "kallerna",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "laguna-colorada-flamingos": {
+  "from": "salar-de-uyuni-guide/7",
+  "alt": "Pink flamingos wading in the red water of Laguna Colorada below a volcano",
+  "caption": "Flamingos at Laguna Colorada.",
+  "title": "File:James's Flamingoes in Laguna Colorada, Bolivia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:James%27s_Flamingoes_in_Laguna_Colorada,_Bolivia.jpg",
+  "author": "Havardtl",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "uyuni-hexagons": {
+  "from": "salar-de-uyuni-guide/9",
+  "alt": "White hexagon patterns on the dry salt flat with a 4x4 in the distance",
+  "caption": "The salt crust in the dry season.",
+  "title": "File:Hexagons, Salar de Uyuni, Bolivia (2086104060).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hexagons,_Salar_de_Uyuni,_Bolivia_(2086104060).jpg",
+  "author": "Pedro Szekely from Los Angeles, USA",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0"
  }
 }
