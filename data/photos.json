@@ -548,5 +548,55 @@
   "author": "Pedro Szekely from Los Angeles, USA",
   "license": "CC BY 2.0",
   "license_url": "https://creativecommons.org/licenses/by/2.0"
+ },
+ "rio-redentor": {
+  "from": "rio-de-janeiro-guide/1",
+  "alt": "Christ the Redeemer statue rising above the clouds",
+  "caption": "Christ the Redeemer above the clouds on Corcovado",
+  "title": "File:Redentor Over Clouds 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Redentor_Over_Clouds_1.jpg",
+  "author": "Donatas Dabravolskas",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ },
+ "rio-skyline": {
+  "from": "rio-de-janeiro-guide/2",
+  "alt": "Rio de Janeiro skyline and Corcovado seen from Sugarloaf Mountain",
+  "caption": "Rio from the top of Sugarloaf, with Corcovado in the distance",
+  "title": "File:Rio skyline and Cristo Redentor from Sugarloaf Mountain, Brazil.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain,_Brazil.jpg",
+  "author": "Wilfredor",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "sugarloaf-cable-car": {
+  "from": "rio-de-janeiro-guide/4",
+  "alt": "Cable car arriving at Sugarloaf Mountain",
+  "caption": "The bondinho arriving at Sugarloaf",
+  "title": "File:Bondinho chegando ao Pão de Açúcar.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bondinho_chegando_ao_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg",
+  "author": "Halley Pacheco de Oliveira",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+ },
+ "selaron-steps": {
+  "from": "rio-de-janeiro-guide/7",
+  "alt": "Colorful ceramic tiles on the Selarón Steps",
+  "caption": "Tiles on the Selarón Steps, collected from all over the world",
+  "title": "File:Piezas de cerámica, Río de Janeiro A74229820241122.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Piezas_de_cer%C3%A1mica,_R%C3%ADo_de_Janeiro_A74229820241122.jpg",
+  "author": "Rjcastillo",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0"
+ },
+ "santa-teresa-tram": {
+  "from": "rio-de-janeiro-guide/9",
+  "alt": "The yellow Santa Teresa tram at Carioca station",
+  "caption": "The Santa Teresa bondinho, still climbing the hill",
+  "title": "File:Bondinho de Santa Teresa na Estação Carioca 02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bondinho_de_Santa_Teresa_na_Esta%C3%A7%C3%A3o_Carioca_02.jpg",
+  "author": "Halley Pacheco de Oliveira",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
  }
 }
